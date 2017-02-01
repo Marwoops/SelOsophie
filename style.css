@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+}
+#container {
+	margin-left: 7%;
+	margin-top: 4%;
+	width: 65%;
+	height: 180px;
+	border: 4px solid grey;
+	text-align: center;
+	border-radius: 4px;
+	background-color: white;
+	font-family: Impact;
+	font-size: 200%;
+}
+
+.boutton {
+	margin-top: -1%;
+	width: 9%;
+	display: inline-block;
+	height: 40px;
+	border: solid #3d4344 1.5px;
+	border-radius: 5px;
+}
+
+#twitter {
+	margin-left: 1%;
+	background-color: #1C689B;
+	color: white;
+}
+
+#generer {
+	margin-left: 10%;
+}
+
+#auteurID {
+	margin-left: 65%;
+	font-size: 130%;
+	color: #6C6C6C;
+}
